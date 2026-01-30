@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lei Wen / Undergraduate student"
+title                    : "Lei Wen"
 title_separator          : "-"
 name                     : &name "Lei Wen"
 description              : &description "Lei's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Senior student majoring in Theoretical and Applied Mechanics at USTC"
   location         : # "Earth"
-  employer         : "University of Science \\ and Technology of China"
+  employer         : "University of Science and Technology of China"
   uri              : "https://ustc.edu.cn" # URL
   email            : "wenlei@mail.ustc.edu.cn" 
 
