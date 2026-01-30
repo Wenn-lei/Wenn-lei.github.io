@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Senior student majoring in Theoretical and Applied Mechanics at USTC"
   location         : # "Earth"
-  employer         : "University of Science and Technology of China"
+  employer         : "University of Science \\ and Technology of China"
   uri              : "https://ustc.edu.cn" # URL
   email            : "wenlei@mail.ustc.edu.cn" 
 
